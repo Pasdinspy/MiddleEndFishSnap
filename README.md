@@ -17,15 +17,15 @@ Cloner le dépôt
 
 Installer les dépendances
 
-  npm install
+  `npm install`
 
 Lancer le serveur en mode développement (avec rechargement automatique)
 
-  npm run dev
+  `npm run dev`
 
 Lancer le serveur en mode production
 
-  npm start
+  `npm start`
 
 Dépendances utilisées
 
@@ -52,6 +52,8 @@ Le projet utilise les bibliothèques suivantes :
 
 BDD :
 
-mongosh
+installer mongosh à partir du MSI (https://www.mongodb.com/try/download/community)
 
-test> use fishsnap
+`mongosh`
+
+test> `use fishsnap`
